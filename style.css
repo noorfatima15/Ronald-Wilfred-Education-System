@@ -1,0 +1,103 @@
+
+
+.one{
+    width: 100px;
+}
+.alert{
+    margin-bottom: auto !important;
+
+    margin-top: auto !important;
+    
+    
+    text-align: center;
+}
+   .s1{
+       background-color: #1A237E !important;
+       color: cornsilk;
+   }
+  .card-img-top{
+
+    width: 255px !important;
+    height: 250px !important;
+    
+    
+   
+  }
+  .card-title{
+      font-style: oblique;
+      font-weight: bold;
+  }
+  
+.wc{
+text-align:  center !important;
+text-decoration: underline !important;
+color:#1A237E !important ;
+text-shadow:2px 2px 8px black !important;
+
+
+}
+  
+.OD{
+    text-align:  center !important;
+    text-decoration: underline !important;
+    color:#1A237E !important ;
+    text-shadow:2px 2px 8px black !important;
+
+}
+
+.CNTCTUS{
+
+    text-align:  center !important;
+    
+}
+     
+
+.logo{
+ width: 120px!important;
+ height: 40px !important;
+}
+ .staff{
+     background-color:#1A237E !important ;
+ }
+ .wm{
+    background-color:#1A237E !important  ;
+    color: cornsilk !important;
+ }
+ .img-fluid{
+     width: 500px !important;
+     height: 400px !important;
+ }
+
+ .navbar{
+     background-color: #1A237E !important ;
+     color: cornsilk !important;
+     font-weight: bold !important;
+     font-style: oblique !important;
+ }
+ .apt{
+     background-color: #1A237E !important;
+ }
+ .ap {
+    background-color: #1A237E !important;
+    color: cornsilk !important;
+    text-align: center !important;
+    padding-bottom: 5em !important;
+    
+ }
+ .ect{
+     background-color:  #1A237E !important ;
+     color: cornsilk !important;
+ 
+}
+ .f1{
+    background-color: #1A237E !important;
+    color: cornsilk !important;
+    padding-bottom: 2px !important;
+ }
+.ft{
+    padding: 5px  !important;
+   
+.btn{
+    position: sticky !important;
+    top: 0 !important;
+}
